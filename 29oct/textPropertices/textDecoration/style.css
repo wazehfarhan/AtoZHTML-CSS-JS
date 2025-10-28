@@ -1,0 +1,16 @@
+/* BY Default text always align in left  */
+p {
+    text-align: right;
+}
+.left {
+    text-align: left;
+    text-decoration: line-through;
+}
+.right {
+    text-align: right;
+    text-decoration: overline;
+}
+.center{
+    text-align: center;
+    text-decoration: underline;
+}

@@ -1,0 +1,13 @@
+/* BY Default text always align in left  */
+p {
+    text-align: right;
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+.center{
+    text-align: center;
+}

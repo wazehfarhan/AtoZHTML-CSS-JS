@@ -1,0 +1,25 @@
+ * {   /*for all it use for '*' */
+
+    color: blue;
+}
+button {
+    color: red;
+}
+h1 {
+    color: blueviolet;
+}
+p {
+    color: pink;
+}
+/* unique id for css style per tag */
+#headingone {
+    color: green;
+}
+#button1 {
+    color: mediumaquamarine;
+    background-color: black;
+}
+/* class selector for using CSS style */
+.first_class{
+    color: black;
+}
