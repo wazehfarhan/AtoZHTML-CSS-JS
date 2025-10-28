@@ -9,8 +9,7 @@
 2. changing the color off front by css
 3. Changing color by selected ids(in css it will start form #)
 4. Multiple selector using class (in css it will start form . (dot)) <br>
-<strong>For Text Popertice </strong> <br>
-1. Creating folders 
+<strong>For Text Popertice </strong>
 <ul>
 <li>Text Align</li>
 <ol> 
@@ -24,5 +23,4 @@
 <li>in this text will have under line,overline and line through (text-decoration:uderline)</li>
 </ol>
 </ul>
-
 <pre>
